@@ -1,0 +1,14 @@
+
+.bg-cuentos{
+	background-image: url(../imagenes/cuentos-infantiles.jpg);
+	background-size: cover;
+	background-repeat: no-repeat, repeat;
+	height: 400px;
+}
+
+.bg-caperucita{
+	background-image: url(../imagenes/cuentos-infantiles.jpg);
+	background-size: cover;
+	background-repeat: no-repeat, repeat;
+	height: 400px;
+}
